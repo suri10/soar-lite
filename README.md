@@ -83,7 +83,7 @@ Visit: [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ##Example Slack Alert:
 
-![Slack Alert](./slack_alert.png)
+[![Slack Alert](./slack_alert.png)](https://github.com/suri10/soar-lite/blob/main/SOAR-LITE%20Alerts.PNG)
 
 --
 
